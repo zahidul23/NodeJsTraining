@@ -1,0 +1,23 @@
+{
+    "courses" : [ {
+       "name":"AWS Architect",
+       "category":"Cloud computing",
+       "price":21000
+     },
+     {
+       "name":"Angular Certification Training",
+       "category":"Front End Dev",
+       "price":10000
+     },
+     {
+       "name":"React Certification Training",
+       "category":"Front End Dev",
+       "price":9000
+     },
+     {
+       "name":"Java",
+       "category":"Backend dev",
+       "price":7000
+     }
+   ]
+ }
