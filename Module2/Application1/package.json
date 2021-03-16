@@ -1,0 +1,14 @@
+{
+  "name": "application1",
+  "version": "1.0.0",
+  "description": "fs ops with yargs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zahidul Hoque",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^16.2.0"
+  }
+}
